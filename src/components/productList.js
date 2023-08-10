@@ -97,7 +97,7 @@ const productList = () => {
 	                                </select>
 	                             </div>
 	                             <div class="filter_btn_wrapper">
-	                                <a class="btn theme-btn-primary theme-btn" href="addproduct.html">Add Product</a>
+	                                <Link class="btn theme-btn-primary theme-btn" to="/add"  class="sidebar-link">Add Product</Link>
 	                            </div>
 	                          </div>
 	                          <div class="app_table table-responsive">
